@@ -31,7 +31,7 @@ example: result in a Chrome browser after updating the first 3 skids
 {"number":12,"type":"","packaging":"","grossWeight":""}]  
 
 Put: /api/skids/:id  
-Updates the skid at id-1 in the skids array  
+Updates the skid at id minus 1 in the skids array  
 example using Postman  
 comand:  
 url: localhost:3000/api/skids/1  
